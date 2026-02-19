@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぴたぴたきゅん",
+  "base_artist": "MORE STAR",
+  "createdAt": "2026-02-19T08:03:52.240283Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぴたぴたきゅん",
+      "artist": "MORE STAR",
+      "has_synced": false,
+      "path": "select/pl_01_ぴたぴたきゅん_MORE_STAR.txt"
+    }
+  ]
+}
